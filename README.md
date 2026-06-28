@@ -1,4 +1,4 @@
-# Price Prediction
+# Flight Price Prediction
 
 Este projeto implementa uma aplicação em Python para prever preços de passagens aéreas usando modelos de regressão supervisionada.
 
