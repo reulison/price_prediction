@@ -11,10 +11,6 @@ ENV/
 # Data files (se forem grandes)
 # dataset/*.csv
 
-# Outputs
-plots/
-results/
-
 # IDE
 .vscode/
 .idea/
