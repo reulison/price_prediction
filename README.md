@@ -63,3 +63,4 @@ Após a execução, os seguintes arquivos são criados:
 - O script utiliza uma amostra de 15.000 linhas para reduzir o tempo de processamento.
 - As métricas principais avaliadas são R² e RMSE.
 - A validação cruzada também é executada para comparar a estabilidade dos modelos.
+- [Artigo Completo: Previsão de Preços de Passagens Aéreas](https://www.reulison.com.br/blog/data-analytics/flight-price-prediction)
